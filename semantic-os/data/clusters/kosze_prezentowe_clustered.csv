@@ -1,0 +1,365 @@
+keyword,cluster_id,typ
+kosz prezentowy slodki dla dziecka do 5 lat,0,long_tail
+kosz prezentowy dla chrzestnych na podziekowanie,0,long_tail
+kosz prezentowy dla noworodka z kosmetykami,0,long_tail
+kosz prezentowy ze słodyczami dla dzieci na mikołajki,0,long_tail
+kosz prezentowy na jubileusz 50-lecia,0,long_tail
+kosz prezentowy na komunię dla dziewczynki,0,long_tail
+kosz prezentowy na chrzciny dla chłopca,0,long_tail
+kosz prezentowy dla pary na rocznicę ślubu,0,long_tail
+kosz prezentowy gratulacyjny dla nowego prezesa,0,long_tail
+kosz prezentowy dla kolegi z pracy na urodziny,0,long_tail
+kosz prezentowy na komunię dla chłopca,0,long_tail
+kosz prezentowy na chrzciny dla dziewczynki,0,long_tail
+kosz prezentowy dla szefa na podziękowanie,0,long_tail
+jak spakować kosz prezentowy na prezent,0,pytanie_jak
+jak złożyć kosz prezentowy krok po kroku,0,pytanie_jak
+jak zrobić kosz prezentowy dla mamy,0,pytanie_jak
+jak samodzielnie zrobić kosz prezentowy,0,pytanie_jak
+jak zapakować kosz prezentowy,0,pytanie_jak
+jak ozdobić kosz prezentowy,0,pytanie_jak
+jak spakowac kosz prezentowy na wysylke,0,pytanie_jak
+jak zrobić kosz prezentowy samemu,0,pytanie_jak
+jak zrobić kosz prezentowy,0,pytanie_jak
+jak zrobić luksusowy kosz prezentowy,0,pytanie_jak
+jak zrobić tani kosz prezentowy,0,pytanie_jak
+kosz prezentowy na urodziny,0,token_after
+kosz prezentowy na ślub,0,token_after
+kosz prezentowy na boże narodzenie,0,token_after
+kosz prezentowy ze słodyczami,0,token_after
+kosz prezentowy na podziękowanie dla rodziców,0,long_tail
+kosz prezentowy dla babci na urodziny,0,long_tail
+kosz prezentowy dla mężczyzny,0,token_after
+kosz prezentowy dla dziadka na imieniny,0,long_tail
+kosz prezentowy na imieniny dla kolegi,0,long_tail
+zestaw smakosza na prezent,1,synonim
+kosz prezentowy z produktami premium polskimi,1,long_tail
+kosz prezentowy z alkoholem dostawa polska,1,long_tail
+kosz prezentowy bez alkoholu,1,refine_chip
+kosze prezentowe z przekąskami,1,token_after
+kosze prezentowe z delikatesami,1,token_after
+zestaw delikatesowy na prezent,1,synonim
+kosz prezentowy z winami regionalnymi polska,1,long_tail
+kosz prezentowy z serami i winem premium,1,long_tail
+kosze prezentowe z piwem,1,token_after
+kosze prezentowe ze smakołykami,1,token_after
+kosz prezentowy dla diabetyka bez cukru,1,long_tail
+kosze prezentowe z kawą,1,token_after
+kosze prezentowe z certyfikatem ekologicznym,1,long_tail
+kosz prezentowy bezalkoholowy dla kierowcy,1,long_tail
+kosz prezentowy śródziemnomorski z oliwą i winem,1,long_tail
+kosz prezentowy włoski z makaronem i sosami,1,long_tail
+kosz prezentowy wegetariański bez mięsa,1,long_tail
+kosz prezentowy z herbatami premium dla mamy,1,long_tail
+kosz prezentowy wegański bez produktów odzwierzęcych,1,long_tail
+kosze prezentowe z szampanem,1,token_after
+kosze prezentowe z produktami regionalnymi,1,token_after
+kosz prezentowy gorczyca i pikle tradycyjne polskie,1,long_tail
+kosze prezentowe z serami,1,token_after
+kosze prezentowe z herbatą,1,token_after
+kosze prezentowe z wędliną,1,token_after
+kosze prezentowe z produktami ekologicznymi,1,token_after
+kosze prezentowe z oliwą,1,token_after
+kosze prezentowe z czekoladą,1,token_after
+kosze prezentowe z alkoholem,1,token_after
+kosze prezentowe ze słodyczami,1,token_after
+kosz prezentowy ekologiczny,1,token_after
+kosz prezentowy dla kobiety na urodziny z winem,1,long_tail
+pakiety kawowe na prezent,1,powiązane
+kosz prezentowy z winem,1,token_after
+produkty do kosza prezentowego,1,powiązane
+kosz prezentowy z alkoholem,1,token_after
+kosze z winami włoskimi,1,powiązane
+prezenty okolicznościowe,1,powiązane
+kosz prezentowy dla mężczyzny z piwem i przekąskami,1,long_tail
+ekologiczny kosz prezentowy z bio produktami,1,long_tail
+kosz prezentowy z produktami regionalnymi polskimi,1,long_tail
+kosz prezentowy z kawą i herbatą na urodziny,1,long_tail
+kosz prezentowy z winem i czekoladą dla kobiety,1,long_tail
+kosz prezentowy z alkoholem na boże narodzenie sklep,1,long_tail
+kosz prezentowy dla seniora z herbatą i ciastkami,1,long_tail
+duży kosz prezentowy premium z alkoholem i delikatesami,1,long_tail
+kosz prezentowy dla alergika bez glutenu,1,long_tail
+kosz prezentowy wellness z suplementami,1,long_tail
+kosz prezentowy z zestawem win różowych,1,long_tail
+kosz prezentowy z produktami z polskich farm,1,long_tail
+ekologiczne kosze prezentowe,1,token_before
+kosz prezentowy ze zdrowymi przekaskami dla sportowca,1,long_tail
+kosz prezentowy dla milosnika kawy arabica,1,long_tail
+kosz prezentowy wedrownika z herbatami swiata,1,long_tail
+hamper prezentowy,1,synonim
+kosz prezentowy z whisky i przekąskami,1,long_tail
+kosz prezentowy z zestawem win białych,1,long_tail
+kosz prezentowy z zestawem win czerwonych,1,long_tail
+kosz prezentowy z orkiszowymi produktami,1,long_tail
+kosze prezentowe z winem,1,token_after
+kosze prezentowe do 50 zł,2,token_after
+kosz prezentowy supermarket czy sklep specjalistyczny,2,long_tail
+gdzie kupić kosz prezentowy w krakowie,2,pytanie_gdzie
+gdzie kupić kosz prezentowy wiklinowy,2,pytanie_gdzie
+gdzie kupić kosz prezentowy w warszawie,2,pytanie_gdzie
+gdzie kupić tani kosz prezentowy,2,pytanie_gdzie
+gdzie zamówić kosz prezentowy online,2,pytanie_gdzie
+gdzie kupić kosz prezentowy z dostawą,2,pytanie_gdzie
+kosze prezentowe kraków,2,token_after
+kosze prezentowe wrocław,2,token_after
+kosze prezentowe warszawa,2,token_after
+kosze prezentowe do 100 zł,2,token_after
+kosze prezentowe gdańsk,2,token_after
+kosze prezentowe łódź,2,token_after
+gdzie kupić luksusowy kosz prezentowy,2,pytanie_gdzie
+kosze prezentowe poznań,2,token_after
+kosze prezentowe z dostawą ekspresową polska,2,long_tail
+kosze prezentowe sklep wrocław,2,long_tail
+tani kosz prezentowy do 50 zł z dostawą,2,long_tail
+kosz prezentowy z dostawą następnego dnia,2,long_tail
+kosze prezentowe sklep kraków odbiór osobisty,2,long_tail
+kosze prezentowe wysyłka,2,token_after
+gdzie kupić kosz prezentowy,2,pytanie_gdzie
+gdzie odebrac kosz prezentowy osobiscie warszawa,2,pytanie_gdzie
+mały kosz prezentowy do 30 zł,2,long_tail
+kosz prezentowy z dostawą do domu,2,token_after
+kosz prezentowy z dostawą do biura warszawa,2,long_tail
+kosze prezentowe z dostawą,2,token_after
+kosz prezentowy z dostawą,2,refine_chip
+kosze prezentowe do 200 zł,2,token_after
+kosze prezentowe kto dostarcza w 24h,2,long_tail
+kosz prezentowy express dostawa,2,refine_chip
+kosz prezentowy wiklinowy vs kartonowy,3,porównanie
+kosze z produktami bio,3,powiązane
+box prezentowy,3,synonim
+kosz świąteczny,3,synonim
+boxy prezentowe,3,synonim
+kosz upominkowy,3,synonim
+koszyczki prezentowe,3,synonim
+kosz z przysmakami,3,synonim
+koszyczek prezentowy,3,synonim
+kosz delikatesowy,3,synonim
+bibulka dekoracyjna do kosza prezentowego,3,powiazane
+opakowania na zywnosc prezentowa,3,powiazane
+kosz z produktami spożywczymi,3,synonim
+puste kosze wiklinowe do dekoracji,3,powiązane
+kosz prezentowy wiklinowy,3,token_after
+wiklinowy kosz pusty,3,powiązane
+kosz prezentowy gotowy vs diy,3,porównanie
+kosze z kosmetykami naturalnymi,3,powiązane
+papier do pakowania kosza prezentowego,3,powiązane
+dekoracja kosza prezentowego,3,powiązane
+siano dekoracyjne do kosza prezentowego,3,powiązane
+wstążka do kosza prezentowego,3,powiązane
+folia do pakowania kosza prezentowego,3,powiązane
+kosze ze zdrową żywnością,3,powiązane
+kosz prezentowy,3,synonim
+kosz prezentowy w stylu rustykalnym wiejskim,3,long_tail
+tasiemka ozdobna do kosza,3,powiazane
+srodki do pakowania prezentow,3,powiazane
+box z przysmakami,3,synonim
+opakowanie prezentowe wiklinowe,3,powiazane
+skrzynki prezentowe,3,synonim
+skrzynka prezentowa,3,synonim
+kosz prezentowy spa relax dla kobiety,4,long_tail
+paczka swiateczna z produktami,4,synonim
+pakiet spożywczy na prezent,4,synonim
+zestaw upominkowy,4,synonim
+zestawy upominkowe,4,synonim
+paczka ze słodyczami,4,synonim
+zestawy do spa jako prezent,4,powiązane
+zestawy herbaciane,4,powiązane
+zestawy z oliwami,4,powiązane
+zestawy degustacyjne,4,powiązane
+paczka prezentowa,4,synonim
+zestawy prezentowe,4,synonim
+zestaw prezentowy,4,synonim
+komplety prezentowe,4,synonim
+paczki prezentowe,4,synonim
+pakiet prezentowy,4,synonim
+pakiety prezentowe,4,synonim
+komplet prezentowy,4,synonim
+dlaczego kosze prezentowe są dobrym podarunkiem,5,pytanie_dlaczego
+dlaczego warto kupić kosz prezentowy,5,pytanie_dlaczego
+dlaczego kosze prezentowe są popularnym prezentem,5,pytanie_dlaczego
+kiedy kupic kosz prezentowy swiateczny,5,pytanie_kiedy
+czy kosz prezentowy wysyłany jest w tajemnicy,5,pytanie_czy
+czy kosz prezentowy z alkoholem wymaga weryfikacji wieku,5,pytanie_czy
+czy kosze prezentowe można personalizować,5,pytanie_czy
+kiedy zamawiac kosze prezentowe na mikolajki,5,pytanie_kiedy
+czy kosze prezentowe wysyłane są kurierem,5,pytanie_czy
+czy kosz prezentowy mozna zamowic z karta urodzinowa,5,pytanie_czy
+dlaczego kosz prezentowy z winem jest popularny,5,pytanie_dlaczego
+dlaczego firmy wybieraja kosze prezentowe na swieta,5,pytanie_dlaczego
+dlaczego kosz prezentowy to lepszy pomysl niz kwiaty,5,pytanie_dlaczego
+ile kosztuje kosz prezentowy firmowy,5,pytanie_ile
+co jest najlepsze w koszu prezentowym,5,pytanie_co
+jak dlugo trwa dostawa kosza prezentowego,5,pytanie_jak
+ile kosztuje kosz prezentowy na święta,5,pytanie_ile
+ile kosztuje kosz prezentowy,5,pytanie_ile
+zawartość kosza prezentowego,5,powiązane
+ile kosztuje kosz prezentowy z winem,5,pytanie_ile
+ile kosztuje dostarczenie kosza prezentowego,5,pytanie_ile
+ile kosztuje personalizacja kosza prezentowego,5,pytanie_ile
+ile kosztuje kosz prezentowy premium,5,pytanie_ile
+ile kosztuje kosz prezentowy dla pary,5,pytanie_ile
+kiedy zamawiać kosze prezentowe na święta,5,pytanie_kiedy
+ile kosztuje kosz prezentowy z alkoholem,5,pytanie_ile
+kiedy daje się kosze prezentowe,5,pytanie_kiedy
+kiedy wysłać kosz prezentowy,5,pytanie_kiedy
+kiedy zamówić kosz prezentowy żeby zdążył,5,pytanie_kiedy
+ile wazy kosz prezentowy,5,pytanie_ile
+ile produktow w koszu prezentowym,5,pytanie_ile
+kiedy wrecza sie kosze prezentowe w pracy,5,pytanie_kiedy
+jak zamówić kosz prezentowy z dostawą,5,pytanie_jak
+czy kosz prezentowy z alkoholem mozna wyslac pocztowo,5,pytanie_czy
+czym wyslac kosz prezentowy,5,powiazane
+co to są kosze prezentowe,5,pytanie_co
+co wchodzi w skład kosza prezentowego,5,pytanie_co
+co zawiera kosz prezentowy świąteczny,5,pytanie_co
+jak dostarczyć kosz prezentowy,5,pytanie_jak
+jak wysłać kosz prezentowy kurierem,5,pytanie_jak
+słomiane kosze prezentowe,6,token_before
+gotowe kosze prezentowe,6,token_before
+kosze świąteczne,6,synonim
+bambusowe kosze prezentowe,6,token_before
+małe kosze prezentowe,6,token_before
+ekskluzywne kosze prezentowe,6,token_before
+piękne kosze prezentowe,6,token_before
+kolorowe kosze prezentowe,6,token_before
+wiklinowe kosze prezentowe,6,token_before
+kosze prezentowe zamówienie telefoniczne,6,long_tail
+świąteczne kosze prezentowe,6,token_before
+ręcznie robione kosze prezentowe,6,token_before
+kosze prezentowe sklep,6,token_after
+kosze prezentowe cena,6,token_after
+kosze prezentowe online,6,token_after
+drewniane kosze prezentowe,6,token_before
+kosze upominkowe,6,synonim
+kosz prezentowy premium,6,token_after
+personalizowane kosze prezentowe,6,token_before
+kosze prezentowe 2025,6,token_after
+kosze prezentowe allegro,6,token_after
+kosze prezentowe ranking,6,token_after
+kosze prezentowe opinie,6,token_after
+tradycyjne kosze prezentowe,6,token_before
+kosze prezentowe pod choinkę,6,token_after
+kosze prezentowe na mikołajki,6,token_after
+kosze prezentowe na dzień nauczyciela,6,token_after
+kosz prezentowe dla nauczyciela na dzień nauczyciela,6,long_tail
+kosze prezentowe z kartką i życzeniami,6,long_tail
+kosze prezentowe ranking najlepszych sklepów,6,long_tail
+kosze prezentowe na dzień kobiet,6,token_after
+kosz prezentowy zamów online,6,token_after
+kosz prezentowy opinie,6,token_after
+kosz prezentowy cena,6,token_after
+kosze prezentowe producent,6,token_after
+kosze prezentowe sklep internetowy,6,token_after
+kosze prezentowe porównanie cen,6,token_after
+kosze prezentowe zamówienie,6,token_after
+kosze prezentowe na wielkanoc wiklinowe,6,long_tail
+kosz prezentowy dla kobiety,6,token_after
+luksusowy kosz prezentowy na ślub z szampanem,6,long_tail
+kosze prezentowe dla taty,6,token_after
+kosze prezentowe dla nauczyciela,6,token_after
+kosze prezentowe dla mamy,6,token_after
+kosze prezentowe dla pary,6,token_after
+kosze prezentowe dla dziadka,6,token_after
+kosze prezentowe dla babci,6,token_after
+kosze prezentowe dla rodziny,6,token_after
+kosze prezentowe dla seniora,6,token_after
+kosze prezentowe dla rodziców,6,token_after
+kosze prezentowe dla mężczyzny,6,token_after
+kosze prezentowe dla dzieci,6,token_after
+kosze prezentowe dla kobiety,6,token_after
+kosze prezentowe na podziękowania,6,token_after
+kosze prezentowe na jubileusz,6,token_after
+kosze prezentowe na imieniny,6,token_after
+kosze prezentowe na urodziny,6,token_after
+kosze prezentowe z kosmetykami,6,token_after
+oryginalne kosze prezentowe,6,token_before
+ozdobne kosze prezentowe,6,token_before
+wyjątkowe kosze prezentowe,6,token_before
+kosze prezentowe ze świecami,6,token_after
+kosze prezentowe premium,6,token_after
+kosze prezentowe na dzień ojca,6,token_after
+kosze prezentowe na dzień matki,6,token_after
+kosze prezentowe na walentynki,6,token_after
+kosze prezentowe na wielkanoc,6,token_after
+kosze prezentowe na boże narodzenie,6,token_after
+kosze prezentowe na rocznicę,6,token_after
+kosze prezentowe na komunię,6,token_after
+kosze prezentowe na chrzciny,6,token_after
+kosze prezentowe na ślub,6,token_after
+eleganckie kosze prezentowe,6,token_before
+luksusowe kosze prezentowe,6,token_before
+drogie kosze prezentowe,6,token_before
+tanie kosze prezentowe,6,token_before
+kosze prezentowe,6,seed
+duże kosze prezentowe,6,token_before
+gift hamper,3,synonim
+gift basket,3,synonim
+kosz prezentowy vs voucher prezentowy,5,porównanie
+kosze prezentowe vs pudełka prezentowe,5,porównanie
+kosz prezentowy vs box prezentowy,5,porównanie
+kosz prezentowy vs paczka prezentowa,5,porównanie
+kosz prezentowy vs zestaw prezentowy,5,porównanie
+kosze prezentowe dla biznesu zamowienie grupowe 10 szt,7,long_tail
+kosze prezentowe dla klientów biznesowych,7,long_tail
+firmowe kosze prezentowe,7,token_before
+personalizowany kosz prezentowy z logo firmy,7,long_tail
+kosze prezentowe na boże narodzenie dla pracowników,7,long_tail
+kosze prezentowe hurt dla firm hurtowo,7,long_tail
+kosze prezentowe własna marka firma,7,long_tail
+kosz prezentowy firmowy z logo zamów online,7,long_tail
+upominki firmowe boże narodzenie,7,powiązane
+prezenty firmowe dla pracowników,7,powiązane
+gadżety firmowe na prezent,7,powiązane
+kosz prezentowy personalizowany z nadrukiem,7,refine_chip
+kosze prezentowe dla szefa,7,token_after
+kosze prezentowe hurt,7,token_after
+gdzie zamowic tanie kosze prezentowe hurtowo,7,pytanie_gdzie
+gdzie znaleźć kosze prezentowe hurt,7,pytanie_gdzie
+kosze prezentowe z logo,7,token_after
+kosze prezentowe dla prezesa,7,token_after
+kosze prezentowe hurtownia,7,token_after
+kosze prezentowe hurt ceny,7,token_after
+kosz prezentowy firmowy,7,token_after
+kosz prezentowy personalizowany,7,token_after
+kosze prezentowe dla klienta,7,token_after
+kosze prezentowe dla firmy,7,token_after
+kosze prezentowe dla pracowników,7,token_after
+jaki kosz prezentowy do 200 zł,8,pytanie_jaki
+jaki kosz prezentowy na boże narodzenie,8,pytanie_jaki
+jaki kosz prezentowy dla partnera,8,pytanie_jaki
+kosz prezentowy na dzień kobiet do 100 zł,8,long_tail
+jaki kosz prezentowy dla babci,8,pytanie_jaki
+jaki kosz prezentowy dla kolegi z pracy,8,pytanie_jaki
+jaki kosz prezentowy dla dziadka,8,pytanie_jaki
+jak wybrac odpowiedni kosz prezentowy,8,pytanie_jak
+jak skompletować kosz prezentowy,8,pytanie_jak
+co wkładać do kosza prezentowego,8,pytanie_co
+co dać w koszu prezentowym,8,pytanie_co
+co kupić do kosza prezentowego dla mężczyzny,8,pytanie_co
+jaki kosz prezentowy na urodziny,8,pytanie_jaki
+jaki kosz prezentowy dla mężczyzny,8,pytanie_jaki
+jaki kosz prezentowy dla kobiety,8,pytanie_jaki
+który kosz prezentowy jest najlepszy,8,pytanie_jaki
+czy kosz prezentowy to dobry pomysł na prezent,8,pytanie_czy
+inspiracje na kosz prezentowy,8,powiązane
+czy można zrobić kosz prezentowy samemu,8,pytanie_czy
+pomysły na kosz prezentowy,8,powiązane
+jaki kosz prezentowy do 100 zł,8,pytanie_jaki
+jaki kosz prezentowy wybrać,8,pytanie_jaki
+co wlozyc do kosza prezentowego na slub,8,pytanie_co
+jaki kosz prezentowy na wielkanoc,8,pytanie_jaki
+co dodac do kosza prezentowego dla mamy,8,pytanie_co
+co powinna zawierac karta do kosza prezentowego,8,pytanie_co
+co zapakować w kosz prezentowy dla kobiety,8,pytanie_co
+co włożyć do kosza prezentowego na urodziny,8,pytanie_co
+co wkładać do kosza prezentowego dla dziecka,8,pytanie_co
+kosze prezentowe dla firm bez podatku vat faktura,7,long_tail
+firmowy kosz prezentowy dla pracownika na święta,7,long_tail
+jaki kosz prezentowy dla pracowników,7,pytanie_jaki
+prezenty na święta dla pracowników,7,powiązane
+kosz prezentowy na emeryturę dla pracownika,7,long_tail
+jak wycenic kosz prezentowy na prezent biznesowy,7,pytanie_jak
+jak zaplanowac kosze prezentowe dla pracownikow,7,pytanie_jak
+kosz prezentowy dla pracownika,7,token_after
+czy kosze prezentowe sa zwolnione z podatku dla pracownikow,7,pytanie_czy
