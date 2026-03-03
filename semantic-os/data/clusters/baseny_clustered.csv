@@ -1,0 +1,439 @@
+keyword,cluster_id,typ
+dmuchane.pl baseny,0,brand
+baseny lublin,0,location
+baseny łódź,0,location
+baseny katowice,0,location
+baseny wrocław,0,location
+baseny poznań,0,location
+baseny kraków,0,location
+baseny warszawa,0,location
+baseny dla aktywnych,0,audience
+baseny dla seniorów,0,audience
+baseny dla rodzin,0,audience
+baseny dla dorosłych,0,audience
+baseny dla dzieci,0,audience
+baseny do pływania,0,use_case
+baseny wakacyjne,0,use_case
+baseny całoroczne,0,related_search
+baseny na lato,0,use_case
+baseny na sezon,0,use_case
+baseny z podgrzewaniem,0,attribute
+basen duży vs mały,0,porownanie
+basen głęboki vs płytki,0,porownanie
+chemia basenowa,0,powiazane
+baseny allegro,0,location
+baseny olx,0,location
+dlaczego basen nadmuchiwany,0,pytanie_why
+baseny decathlon,0,location
+co to jest basen nadmuchiwany,0,pytanie_what
+kiedy są promocje na baseny,0,pytanie_when
+kiedy są wyprzedaże basenów,0,pytanie_when
+który basen jest najlepszy,0,pytanie_which
+który basen jest najtańszy,0,pytanie_which
+który basen dla dzieci,0,pytanie_which
+który basen dla dorosłych,0,pytanie_which
+który basen do ziemi,0,pytanie_which
+baseny promocja,0,quality
+baseny wyprzedaż,0,quality
+algicyd do basenu,0,powiazane
+baseny hit sezonu,0,quality
+baseny najlepsze,0,quality
+baseny drogie,0,quality
+baseny budżetowe,0,quality
+baseny zimowe,0,time
+baseny jesienne,0,time
+baseny wiosenne,0,time
+baseny letnie,0,time
+baseny sezon 2025,0,time
+baseny sezon 2024,0,time
+baseny empik,0,location
+baseny najgorsze,0,quality
+mata pod basen,0,powiazane
+baseny gdańsk,0,location
+baseny rekreacyjne,0,synonim
+dobrebaseny baseny,0,brand
+taras przy basenie,0,powiazane
+alejka do basenu,0,powiazane
+ambaseny baseny,0,brand
+poolsfactory baseny,0,brand
+europool baseny,0,brand
+baseny kąpielowe,0,synonim
+vivapool baseny,0,brand
+alarm basenowy,0,powiazane
+leżaki przy basenie,0,powiazane
+kostka przy basenie,0,powiazane
+altana przy basenie,0,powiazane
+grill przy basenie,0,powiazane
+czujniki basenu,0,powiazane
+sterowanie basenem,0,powiazane
+lampy led do basenu,0,powiazane
+zabezpieczenie basenu,0,powiazane
+parasole przy basenie,0,powiazane
+kiedy zacząć sezon basenowy,1,pytanie_when
+kiedy montować basen ogrodowy,1,pytanie_when
+kiedy zakończyć sezon basenowy,1,pytanie_when
+kiedy składać basen ogrodowy,1,pytanie_when
+kiedy przezimować basen,1,pytanie_when
+kiedy czyścić basen ogrodowy,1,pytanie_when
+kiedy rozkładać basen ogrodowy,1,pytanie_when
+kiedy kupić basen ogrodowy,1,pytanie_when
+styropian pod basen,1,powiazane
+kiedy najlepiej kupić basen,1,pytanie_when
+kiedy dodawać chemię do basenu,1,pytanie_when
+kiedy wymieniać filtr w basenie,1,pytanie_when
+gdzie znaleźć basen ogrodowy,1,pytanie_where
+który basen ogrodowy wybrać,1,pytanie_which
+który basen jest najtrwalszy,1,pytanie_which
+który basen na działkę,1,pytanie_which
+kiedy są wyprzedaże basenów ogrodowych,1,long_tail
+który basen stelażowy wybrać,1,pytanie_which
+który basen wkopywany wybrać,1,pytanie_which
+który producent basenów jest najlepszy,1,pytanie_which
+która marka basenów jest najlepsza,1,pytanie_which
+który basen jest lepszy rozporowy czy stelażowy,1,paa_question
+ile kosztuje zrobienie basenu przydomowego,1,paa_question
+kiedy wymieniać wodę w basenie,1,pytanie_when
+gdzie zamówić basen ogrodowy,1,pytanie_where
+gdzie kupić chemię do basenu,1,pytanie_where
+gdzie kupić najlepszy basen,1,pytanie_where
+jak dbać o basen ogrodowy,1,pytanie_how
+jak często czyścić basen,1,pytanie_how
+ile kosztuje basen ogrodowy,1,pytanie_cost
+ile kosztuje basen stelażowy,1,pytanie_cost
+ile kosztuje basen wkopywany,1,pytanie_cost
+ile kosztuje basen nadmuchiwany,1,pytanie_cost
+ile kosztuje montaż basenu,1,pytanie_cost
+ile kosztuje utrzymanie basenu,1,pytanie_cost
+ile kosztuje budowa basenu,1,pytanie_cost
+ile kosztuje wykopanie basenu,1,pytanie_cost
+ile kosztuje chemia do basenu,1,pytanie_cost
+ile kosztuje podgrzewanie basenu,1,pytanie_cost
+ile kosztuje filtr do basenu,1,pytanie_cost
+ile kosztuje pompa do basenu,1,pytanie_cost
+ile kosztuje konserwacja basenu,1,pytanie_cost
+ile kosztuje naprawa basenu,1,pytanie_cost
+ile kosztuje transport basenu,1,pytanie_cost
+ile kosztuje dostawa basenu,1,pytanie_cost
+ile kosztuje zadaszenie basenu,1,pytanie_cost
+gdzie kupić basen ogrodowy,1,pytanie_where
+gdzie kupić basen stelażowy,1,pytanie_where
+gdzie kupić basen nadmuchiwany,1,pytanie_where
+gdzie kupić tani basen,1,pytanie_where
+gdzie kupić akcesoria do basenu,1,pytanie_where
+kiedy kupić basen ogrodowy najkorzystniej,1,long_tail
+gdzie kupić pompę do basenu,1,pytanie_where
+gdzie kupić filtr do basenu,1,pytanie_where
+gdzie kupić pokrywę do basenu,1,pytanie_where
+gdzie kupić drabinkę do basenu,1,pytanie_where
+gdzie szukać basenu ogrodowego,1,pytanie_where
+gdzie kupić basen ogrodowy z montażem,1,long_tail
+ile kosztuje basen wkopany w ziemię,1,paa_question
+czy płaci się podatek od basenu,1,paa_question
+dlaczego basen podnosi wartość domu,1,pytanie_why
+dlaczego warto inwestować w basen,1,pytanie_why
+czy basen ogrodowy się opłaca,1,pytanie_yes_no
+basen ogrodowy instalacja cena,1,long_tail
+czy warto kupić basen ogrodowy,1,pytanie_yes_no
+czy basen stelażowy jest dobry,1,pytanie_yes_no
+nasadzenia przy basenie,1,powiazane
+czy basen wkopywany jest drogi,1,pytanie_yes_no
+czy basen nadmuchiwany jest trwały,1,pytanie_yes_no
+czy basen ogrodowy wymaga pozwolenia,1,pytanie_yes_no
+czy basen ogrodowy wymaga konserwacji,1,pytanie_yes_no
+czy basen ogrodowy zużywa dużo wody,1,pytanie_yes_no
+czy basen ogrodowy zużywa dużo prądu,1,pytanie_yes_no
+czy basen ogrodowy można zostawić na zimę,1,pytanie_yes_no
+czy basen ogrodowy jest bezpieczny dla dzieci,1,pytanie_yes_no
+czy basen ogrodowy można podgrzewać,1,pytanie_yes_no
+czy basen ogrodowy można wkopać,1,pytanie_yes_no
+czy basen ogrodowy można przenosić,1,pytanie_yes_no
+czy basen ogrodowy można naprawić,1,pytanie_yes_no
+basen stelażowy vs nadmuchiwany,1,porownanie
+basen wkopywany vs naziemny,1,porownanie
+basen poliestrowy vs polipropylenowy,1,porownanie
+basen okrągły vs prostokątny,1,porownanie
+basen z filtracją vs bez filtracji,1,porownanie
+basen drewniany vs metalowy,1,porownanie
+basen całoroczny vs sezonowy,1,porownanie
+kolektor słoneczny do basenu,1,powiazane
+podłoga pod basen,1,powiazane
+wypoziomowanie terenu pod basen,1,powiazane
+jaki basen ogrodowy do ogrodu wybrać,1,long_tail
+jaki basen ogrodowy na działkę wybrać,1,long_tail
+jaki basen ogrodowy dla dzieci wybrać,1,long_tail
+jaki basen ogrodowy dla dorosłych wybrać,1,long_tail
+ile lat wytrzymuje basen stelażowy,1,paa_question
+gdzie kupić basen ogrodowy kraków,1,long_tail
+gdzie kupić basen ogrodowy warszawa,1,long_tail
+ile kosztuje chemia do basenu ogrodowego,1,long_tail
+kostka betonowa pod basen,1,powiazane
+ile kosztuje utrzymanie basenu ogrodowego rocznie,1,long_tail
+jak długo wytrzyma basen wkopany w ziemię,1,paa_question
+ile kosztuje zrobienie basenu w ziemi samemu,1,paa_question
+ile kosztuje montaż basenu ogrodowego,1,long_tail
+ile kosztuje basen ogrodowy nadmuchiwany,1,long_tail
+ile kosztuje basen ogrodowy wkopywany,1,long_tail
+ile kosztuje basen ogrodowy stelażowy,1,long_tail
+jak czyścić basen ogrodowy domowymi sposobami,1,long_tail
+jak konserwować basen ogrodowy zimą,1,long_tail
+gdzie kupić tani basen ogrodowy,1,long_tail
+czy na basen wkopywany trzeba mieć pozwolenie,1,paa_question
+jak zabezpieczyć basen ogrodowy na zimę,1,long_tail
+dlaczego basen ogrodowy się opłaca,1,pytanie_why
+dlaczego basen stelażowy,1,pytanie_why
+dlaczego basen wkopywany,1,pytanie_why
+jak wypoziomować teren pod basen ogrodowy,1,long_tail
+jak przygotować grunt pod basen ogrodowy,1,long_tail
+dlaczego warto kupić basen,1,pytanie_why
+dlaczego basen w ogrodzie,1,pytanie_why
+najtańszy basen ogrodowy do kupienia,1,long_tail
+najlepszy basen ogrodowy stelażowy,1,long_tail
+jaki basen ogrodowy do 5000 zł,1,long_tail
+jaki basen ogrodowy do 2000 zł,1,long_tail
+jaki basen ogrodowy do 1000 zł,1,long_tail
+jak przechowywać basen zimą,1,pytanie_how
+dlaczego warto mieć basen ogrodowy,1,pytanie_why
+jak uszczelnić basen ogrodowy,1,pytanie_how
+gdzie kupić basen wkopywany,1,pytanie_where
+jak zakryć basen ogrodowy,1,pytanie_how
+jak naprawić basen ogrodowy,1,pytanie_how
+co to jest basen ogrodowy,1,pytanie_what
+czym jest basen ogrodowy,1,pytanie_what
+co to znaczy basen stelażowy,1,pytanie_what
+co to są baseny wkopywane,1,pytanie_what
+jak wybrać basen ogrodowy,1,pytanie_how
+jak zamontować basen ogrodowy,1,pytanie_how
+jak ustawić basen ogrodowy,1,pytanie_how
+jak złożyć basen ogrodowy,1,pytanie_how
+jak rozłożyć basen ogrodowy,1,pytanie_how
+jak rozkładać basen stelażowy,1,pytanie_how
+jak zbudować basen ogrodowy,1,pytanie_how
+co oznacza basen całoroczny,1,pytanie_what
+jak wkopać basen w ziemię,1,pytanie_how
+jak wykopać basen ogrodowy,1,pytanie_how
+jak odkażać wodę w basenie,1,pytanie_how
+jak konserwować basen ogrodowy,1,pytanie_how
+jak czyścić basen ogrodowy,1,pytanie_how
+jak przezimować basen ogrodowy,1,pytanie_how
+jak podgrzewać wodę w basenie,1,pytanie_how
+jak zabezpieczyć basen na zimę,1,pytanie_how
+jak wypoziomować teren pod basen,1,pytanie_how
+jak przygotować miejsce pod basen,1,pytanie_how
+jak zainstalować basen ogrodowy,1,pytanie_how
+jak podłączyć pompę do basenu,1,pytanie_how
+baseny premium,2,quality
+baseny 2025,2,time
+baseny 2024,2,time
+baseny auchan,2,location
+baseny jula,2,location
+baseny obi,2,location
+basen intex vs bestway,2,porownanie
+baseny castorama,2,location
+baseny top 10,2,quality
+chlor do basenu,2,powiazane
+ph do basenu,2,powiazane
+grunt pod basen,2,powiazane
+monitoring basenu,2,powiazane
+baseny leroy merlin,2,location
+baseny ranking 2024,2,quality
+baseny carrefour,2,location
+woody baseny,2,brand
+baseny ogrodowe sprawdzone modele,3,serp_pattern
+basen ogrodowy wkopywany poliestrowy,3,long_tail
+basen ogrodowy wkopywany polipropylenowy,3,long_tail
+basen ogrodowy wkopywany cena,3,long_tail
+styropool baseny,3,brand
+baseny do ogrodu,3,synonim
+basen ogrodowy wkopywany montaż,3,long_tail
+basen ogrodowy całoroczny cena,3,long_tail
+basen ogrodowy całoroczny wolnostojący,3,long_tail
+basen ogrodowy całoroczny drewniany,3,long_tail
+basen ogrodowy ranking 2024,3,long_tail
+basen ogrodowy opinie 2024,3,long_tail
+basen ogrodowy najlepszy ranking,3,long_tail
+basen ogrodowy tani ranking,3,long_tail
+basen ogrodowy dla dzieci ranking,3,long_tail
+basen ogrodowy duży ranking,3,long_tail
+basen ogrodowy mały ranking,3,long_tail
+baseny ogrodowe opinie,3,token_after
+baseny ogrodowe ranking,3,token_after
+baseny ogrodowe cennik,3,token_after
+baseny ogrodowe ceny,3,token_after
+basen ogrodowy nadmuchiwany bestway,3,long_tail
+solidne baseny ogrodowe,3,token_before
+basen ogrodowy nadmuchiwany intex,3,long_tail
+basen ogrodowy stelażowy prostokątny,3,long_tail
+baseny ogrodowe wymiary,3,token_after
+baseny ogrodowe budowa,3,token_after
+baseny przydomowe,3,synonim
+baseny ogrodowe instalacja,3,token_after
+baseny ogrodowe montaż,3,token_after
+basen ogrodowy dla 4 osobowej rodziny,3,long_tail
+basen ogrodowy sklep warszawa,3,long_tail
+basen ogrodowy cena warszawa,3,long_tail
+basen ogrodowy montaż cena,3,long_tail
+baseny ogrodowe sklep,3,token_after
+basen ogrodowy z podgrzewaniem cena,3,long_tail
+basen ogrodowy z filtracją cena,3,long_tail
+basen ogrodowy 4x2 cena,3,long_tail
+basen ogrodowy 5x3 cena,3,long_tail
+basen ogrodowy 6x3 cena,3,long_tail
+basen ogrodowy stelażowy intex,3,long_tail
+basen ogrodowy stelażowy bestway,3,long_tail
+pływalnie ogrodowe,3,synonim
+akweny ogrodowe,3,synonim
+basen ogrodowy stelażowy 366x122,3,long_tail
+basen ogrodowy stelażowy 457x122,3,long_tail
+basen ogrodowy stelażowy okrągły,3,long_tail
+baseny ogrodowe dla całej rodziny,3,serp_pattern
+wytrzymałe baseny ogrodowe,3,token_before
+sprawdzone baseny ogrodowe,3,token_before
+baseny ogrodowe łatwy montaż,3,serp_pattern
+stylowe baseny ogrodowe,3,token_before
+nowoczesne baseny ogrodowe,3,token_before
+płytkie baseny ogrodowe,3,token_before
+głębokie baseny ogrodowe,3,token_before
+prostokątne baseny ogrodowe,3,token_before
+okrągłe baseny ogrodowe,3,token_before
+duże baseny ogrodowe,3,token_before
+małe baseny ogrodowe,3,token_before
+tanie baseny ogrodowe,3,token_before
+baseny ogrodowe intex ranking,3,serp_pattern
+baseny ogrodowe bestway ranking,3,serp_pattern
+baseny ogrodowe sklep online,3,serp_pattern
+baseny ogrodowe tanie ceny,3,serp_pattern
+baseny ogrodowe promocja wyprzedaż,3,serp_pattern
+baseny ogrodowe z pompą,3,serp_pattern
+baseny ogrodowe z drabinką,3,serp_pattern
+baseny ogrodowe z pokrywą,3,serp_pattern
+baseny ogrodowe komplety,3,serp_pattern
+baseny ogrodowe zestawy,3,serp_pattern
+baseny ogrodowe akcesoria komplet,3,serp_pattern
+baseny ogrodowe szybka dostawa,3,serp_pattern
+trwałe baseny ogrodowe,3,token_before
+eleganckie baseny ogrodowe,3,token_before
+praktyczne baseny ogrodowe,3,token_before
+najlepszy basen ogrodowy nadmuchiwany,3,long_tail
+najlepszy basen ogrodowy wkopywany,3,long_tail
+najlepszy basen ogrodowy dla dzieci,3,long_tail
+najlepszy basen ogrodowy dla rodziny,3,long_tail
+najtańszy basen ogrodowy stelażowy,3,long_tail
+najtańszy basen ogrodowy nadmuchiwany,3,long_tail
+polecane baseny ogrodowe,3,token_before
+najlepsze baseny ogrodowe,3,token_before
+luksusowe baseny ogrodowe,3,token_before
+premium baseny ogrodowe,3,token_before
+budżetowe baseny ogrodowe,3,token_before
+ekonomiczne baseny ogrodowe,3,token_before
+funkcjonalne baseny ogrodowe,3,token_before
+baseny zewnętrzne,3,synonim
+bestway baseny,3,brand
+intex baseny,3,brand
+baseny ogrodowe bezpieczne,3,serp_pattern
+baseny ogrodowe certyfikowane,3,serp_pattern
+meble ogrodowe przy basenie,3,powiazane
+baseny ogrodowe gwarancja producenta,3,serp_pattern
+baseny ogrodowe transport gratis,3,serp_pattern
+baseny ogrodowe dostawa gratis,3,serp_pattern
+baseny ogrodowe rozmiary,3,token_after
+baseny ogrodowe podgrzewanie,3,token_after
+baseny ogrodowe marki,3,token_after
+baseny stalowe,3,material
+baseny drewniane,3,material
+baseny kompozytowe,3,material
+baseny polipropylenowe,3,material
+baseny poliestrowe,3,material
+baseny rozporowe,3,material
+baseny dmuchane,3,material
+baseny nadmuchiwane,3,material
+baseny stelażowe,3,material
+baseny z rabatem,3,quality
+baseny na raty,3,quality
+baseny przecena,3,quality
+baseny rabat,3,quality
+baseny tanie,3,quality
+baseny wielosezonowe,3,time
+baseny dla 8 osób,3,audience
+baseny dla 6 osób,3,audience
+baseny dla 4 osób,3,audience
+baseny do relaksu,3,use_case
+baseny do zabawy,3,use_case
+baseny rekreacyjne dla rodziny,3,use_case
+baseny betonowe,3,material
+baseny do ziemi,3,use_case
+baseny z tworzywa,3,material
+baseny metalowe,3,material
+basenyogrodowe.pl,3,brand
+basen stelażowy 457x132,3,related_search
+baseny ogrodowe stelażowe wyprzedaż,3,related_search
+najtańsze baseny ogrodowe stelażowe,3,related_search
+basen stelażowy 366x122 wyprzedaż,3,related_search
+basen ogrodowy wyprzedaż castorama,3,related_search
+basen stelażowy prostokątny,3,related_search
+baseny ogrodowe castorama,3,related_search
+baseny ogrodowe duże,3,related_search
+baseny ogrodowe wyprzedaż,3,related_search
+baseny ogrodowe olx,3,related_search
+baseny ogrodowe allegro,3,related_search
+baseny ogrodowe wkopywane,3,related_search
+baseny ogrodowe stelażowe,3,related_search
+baseny prefabrykowane,3,material
+baseny modułowe,3,material
+baseny składane,3,material
+baseny wolnostojące,3,material
+baseny naziemne,3,material
+baseny wkopywane,3,material
+baseny z pvc,3,material
+baseny plastikowe,3,material
+baseny na taras,3,use_case
+baseny na działkę,3,use_case
+baseny do ogrodu duże,3,use_case
+siatka do basenu,3,powiazane
+baseny ogrodowe transport,3,token_after
+baseny ogrodowe sezon,3,token_after
+geowłóknina pod basen,3,powiazane
+baseny ogrodowe zimowanie,3,token_after
+baseny ogrodowe filtracja,3,token_after
+baseny ogrodowe chemia,3,token_after
+ogrodzenie basenu,3,powiazane
+system filtracji basenu,3,powiazane
+system podgrzewania basenu,3,powiazane
+podgrzewacz do basenu,3,powiazane
+pompa ciepła do basenu,3,powiazane
+baseny ogrodowe czyszczenie,3,token_after
+oświetlenie basenu,3,powiazane
+baseny ogrodowe utrzymanie,3,token_after
+baseny ogrodowe pielęgnacja,3,token_after
+automatyka basenowa,3,powiazane
+baseny ogrodowe konserwacja,3,token_after
+baseny ogrodowe wyposażenie,3,token_after
+deska tarasowa przy basenie,3,powiazane
+baseny ogrodowe akcesoria,3,token_after
+odkurzacz do basenu,3,powiazane
+klarownik do basenu,3,powiazane
+flokulant do basenu,3,powiazane
+baseny ogrodowe dostawa,3,token_after
+baseny do ogrodu małe,3,use_case
+baseny z systemem uv,3,attribute
+baseny z systemem solnym,3,attribute
+baseny z automatyczną filtracją,3,attribute
+baseny z systemem grzewczym,3,attribute
+baseny z lampami led,3,attribute
+baseny z ozonowaniem,3,attribute
+baseny z systemem uzdatniania wody,3,attribute
+baseny z hydromasażem,3,attribute
+baseny z obudową,3,attribute
+baseny ogrodowe producenci,3,token_after
+baseny z pokrywą,3,attribute
+baseny z pompą,3,attribute
+baseny z filtracją,3,attribute
+baseny ogrodowe naprawa,3,token_after
+baseny ogrodowe serwis,3,token_after
+pompy do basenu,3,powiazane
+filtry do basenu,3,powiazane
+drabinki do basenu,3,powiazane
+pokrywy do basenu,3,powiazane
+zadaszenia basenowe,3,powiazane
+baseny ogrodowe gwarancja,3,token_after
+baseny z drabinką,3,attribute
+baseny ogrodowe,3,seed
