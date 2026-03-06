@@ -186,17 +186,25 @@ def _fetch_embeddings_with_retry(
                     all_embeddings.append(embedding.values)
                 break
             except Exception as e:
+                err_str = str(e)
                 if attempt < max_retries - 1:
-                    wait = 2 ** (attempt + 1)
+                    # Extract retryDelay from error message if available
+                    import re as _re
+                    delay_match = _re.search(r"'retryDelay':\s*'(\d+)s'", err_str)
+                    if delay_match:
+                        wait = int(delay_match.group(1)) + 5
+                    else:
+                        wait = 65
                     print(f"  Retry {attempt + 1}/{max_retries} za {wait}s: {e}")
                     time.sleep(wait)
                 else:
                     print(f"  BŁĄD po {max_retries} próbach: {e}")
                     raise
 
-        # Rate limiting
+        # Rate limiting — free tier: 100 requests/minute, wait 62s between batches
         if i + batch_size < len(keywords):
-            time.sleep(0.5)
+            print(f"  Czekam 62s na reset limitu API (free tier 100 req/min)...")
+            time.sleep(62)
 
     return all_embeddings
 

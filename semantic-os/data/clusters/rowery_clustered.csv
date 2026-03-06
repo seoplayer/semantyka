@@ -1,0 +1,423 @@
+keyword,cluster_id,typ
+rower mtb,0,typ_roweru
+rower mtb hardtail,0,typ_roweru
+rower mtb 27.5,0,typ_roweru
+rower mtb 29,0,typ_roweru
+rower mtb full suspension,0,typ_roweru
+rower enduro full suspension,0,longtail
+rower downhill full suspension,0,longtail
+rower xc hardtail,0,longtail
+rower e-bike,0,typ_roweru
+rower gravel orbea terra,0,longtail
+rower shimano deore,0,atrybut
+rower fatbike 26 cali,0,typ_roweru
+rower shimano xt,0,atrybut
+rower shimano xtr,0,atrybut
+rower sram,0,atrybut
+rower full sus,0,atrybut
+rower 29 cali,0,atrybut
+rower full suspension,0,atrybut
+rower 27.5 cali,0,atrybut
+"rower 29""",0,atrybut
+rower 26 cali,0,atrybut
+rower 28 cali,0,atrybut
+rower hardtail,0,atrybut
+"rower 27.5""",0,atrybut
+rower enduro dla dorosłych,1,longtail
+rower enduro opinie,1,longtail
+rowery szosowe,1,typ_roweru
+rower górski dla początkującego,1,typ_roweru
+rower shimano deore opinie,1,longtail
+rower górski 27.5 cali,1,typ_roweru
+rower mtb dla dorosłych,1,typ_roweru
+rowery górskie,1,typ_roweru
+rower dla kobiety,1,odbiorca
+rower szosowy aluminium opinie,1,longtail
+rower trekkingowy dla dorosłych,1,typ_roweru
+rowery trekkingowe,1,typ_roweru
+rower crossowy dla kobiety,1,odbiorca
+rower rekreacyjny,1,odbiorca
+opony mtb,1,akcesoria
+rower trekkingowy dla kobiety,1,typ_roweru
+rowery dla kobiet,1,odbiorca
+rower z aluminiową ramą,1,atrybut
+rower dla dziecka 12 lat,1,longtail
+rower dla dziecka 14 lat,1,longtail
+rower szosowy dla amatora,1,longtail
+rower z amortyzatorem przednim,1,atrybut
+rower bmx dla dorosłych,1,typ_roweru
+rower z przerzutkami shimano,1,atrybut
+rower dla mężczyzny,1,odbiorca
+rower dla dziecka 10 lat,1,typ_roweru
+rower szosowy,1,typ_roweru
+rower szosowy dla kobiety,1,typ_roweru
+rower szosowy carbon,1,typ_roweru
+rower szosowy aluminium,1,typ_roweru
+rower szosowy dla dorosłych,1,typ_roweru
+rower szosa,1,typ_roweru
+rower xc pełne zawieszenie,1,longtail
+rower xc zawody,1,longtail
+rower fatbike opinie,1,longtail
+rower downhill dla początkującego,1,longtail
+rower górski 29 cali,1,typ_roweru
+rower szosowy carbon cena,1,longtail
+rower górski full suspension,1,typ_roweru
+rower górski hardtail,1,typ_roweru
+najlepszy rower za rozsądną cenę,1,cenowy
+rower górski do 2000 zł,1,cenowy
+rower górski do 3000 zł,1,cenowy
+jaki rower wybrać,1,pytanie
+najlepszy rower szosowy 2026,1,porównanie
+najlepszy rower górski 2026,1,porównanie
+ranking rowerów,1,porównanie
+jaki rower do 3000 zł,1,pytanie
+który rower dla kobiety,1,pytanie
+który rower dla seniora,1,pytanie
+jaki rozmiar roweru wybrać,1,pytanie
+jak wybrać rower górski,1,pytanie
+jak wybrać rower szosowy,1,pytanie
+jak dobrać rower do wzrostu,1,pytanie
+ile kosztuje dobry rower,1,pytanie
+rower górski vs trekking,1,porównanie
+rower do 1500 zł,1,cenowy
+jaki rower trekkingowy,1,pytanie
+jaki rower szosowy,1,pytanie
+rower z hydraulicznymi hamulcami,1,atrybut
+rower dla dziecka 5 lat,1,typ_roweru
+rower dla dziecka 7 lat,1,typ_roweru
+rower do miasta,1,typ_roweru
+rowery crossowe,1,typ_roweru
+rower z karbonową ramą,1,atrybut
+rowery dla mężczyzn,1,odbiorca
+rower dla seniora,1,odbiorca
+rower dla starszej osoby,1,odbiorca
+rower dla zaawansowanego,1,odbiorca
+rower dla początkującego,1,odbiorca
+rower dla rekreacji,1,odbiorca
+rower trekkingowy dla mężczyzny,1,typ_roweru
+rower do 2000 zł,1,cenowy
+rowery do 2000 zł,1,cenowy
+jaki rower górski dla początkującego,1,pytanie
+jaki rower do 2000 zł,1,pytanie
+jaki rower dla dorosłego,1,pytanie
+który rower na miasto,1,pytanie
+jaki rower do lasu,1,pytanie
+rower do 1000,1,cenowy
+rower do 10000 zł,1,cenowy
+rowery do 5000,1,cenowy
+rower do 5000 zł,1,cenowy
+rowery do 5000 zł,1,cenowy
+rower do 4000 zł,1,cenowy
+rower do 3000,1,cenowy
+rowery do 3000 zł,1,cenowy
+rower do 3000 zł,1,cenowy
+rowery dla osób z nadwagą,1,powiązane
+rowery do 1000 zł,1,cenowy
+rower do 1000 zł,1,cenowy
+sklep rowerowy łódź,2,lokalny
+rowery promocja,2,zakupowy
+rowery tani sklep,2,zakupowy
+rowery tanie,2,zakupowy
+rowery łódź,2,lokalny
+serwis roweru lodź,2,serwis
+rower łódź sklep,2,lokalny
+używany rower sklep,2,powiązane
+rowery polskie marki,2,powiązane
+rowery na raty bez bik,2,longtail
+rowery na raty,2,longtail
+rower za 0zł pierwsza rata,2,longtail
+wyprzedaż rowerów 2026,2,longtail
+rowery do 2000,2,cenowy
+najlepsze rowery 2026,2,porównanie
+rowery miejskie,2,typ_roweru
+rowery dla dzieci,2,odbiorca
+rowery dziecięce,2,typ_roweru
+rower miejski,2,typ_roweru
+rowery z dostawą w 24h,2,longtail
+rowery z bezpłatną dostawą,2,longtail
+kup rower online,2,zakupowy
+rowery mtb sklep,2,typ_roweru
+rowery sklep łódź,2,lokalny
+rowery orbea sklep łódź,2,lokalny
+tanie rowery,2,cenowy
+tanie rowery 1000 zł,2,cenowy
+rowery sklep,2,powiązane
+rowery budżetowe,2,cenowy
+sklep rowerowy,2,zakupowy
+sklep rowerowy online,2,zakupowy
+rowery najtaniej,2,zakupowy
+rowery sklep internetowy,2,zakupowy
+wyprzedaż rowerów,2,zakupowy
+rowery raty 0%,2,zakupowy
+rowery dostawa,2,zakupowy
+rowery okazja,2,zakupowy
+rowery dostawa do domu,2,zakupowy
+rowery importowane,2,powiązane
+rower składany,3,powiązane
+rower foldingowy,3,powiązane
+rower górski,3,typ_roweru
+rower bmx wyczynowy,3,longtail
+rower fatbike zima,3,longtail
+wymiana opon rowerowych,3,serwis
+regulacja hamulców rowerowych,3,serwis
+regulacja przerzutek,3,serwis
+warsztat rowerowy,3,serwis
+smarowanie łańcucha rowerowego,3,serwis
+wymiana łańcucha rowerowego,3,serwis
+opony rowerowe,3,akcesoria
+dętka rowerowa,3,akcesoria
+błotniki rowerowe,3,akcesoria
+bidon rowerowy,3,akcesoria
+koszyk rowerowy,3,akcesoria
+zamek rowerowy,3,akcesoria
+u-lock rowerowy,3,akcesoria
+bagażnik rowerowy,3,akcesoria
+pedały rowerowe,3,akcesoria
+siodełko rowerowe,3,akcesoria
+kierownica rowerowa,3,akcesoria
+rękawiczki rowerowe,3,akcesoria
+rower luksusowy,3,cenowy
+rower trekkingowy,3,typ_roweru
+koszulka rowerowa,3,akcesoria
+ubranie rowerowe,3,akcesoria
+odzież rowerowa,3,akcesoria
+serwis rowerowy,3,serwis
+naprawa roweru,3,serwis
+regulacja roweru,3,serwis
+przegląd roweru,3,serwis
+lampka przednia rowerowa,3,akcesoria
+lampka rowerowa,3,akcesoria
+torba rowerowa pod siodło,3,akcesoria
+sakwa na bagażnik,3,akcesoria
+sakwy rowerowe,3,akcesoria
+komputer rowerowy,3,akcesoria
+czyszczenie roweru,3,serwis
+lampka tylna rowerowa,3,akcesoria
+licznik rowerowy,3,akcesoria
+kask rowerowy dziecięcy,3,akcesoria
+rower damski,3,odbiorca
+rower kobiecy,3,odbiorca
+rower męski,3,odbiorca
+rower dla kolarza,3,odbiorca
+rower z amortyzatorem,3,atrybut
+rower z amortyzatorem tylnym,3,atrybut
+rower miejski damski,3,typ_roweru
+rower dla amatora,3,odbiorca
+rower miejski męski,3,typ_roweru
+rower dziecięcy,3,typ_roweru
+rower dziecięcy 24 cali,3,typ_roweru
+rowery bmx,3,typ_roweru
+rower dla dziecka,3,odbiorca
+rower dziecięcy 20 cali,3,typ_roweru
+rower crossowy,3,typ_roweru
+rower bmx dla dzieci,3,typ_roweru
+buty rowerowe,3,akcesoria
+spodenki rowerowe,3,akcesoria
+rower sportowy,3,odbiorca
+kask rowerowy,3,akcesoria
+kask rowerowy mtb,3,akcesoria
+kask rowerowy szosowy,3,akcesoria
+rower dziecięcy 16 cali,3,longtail
+rowery enduro,3,typ_roweru
+bicykl,3,synonim
+rowery fatbike,3,typ_roweru
+rower turystyczny,3,powiązane
+rower wyścigowy,3,powiązane
+rower hydrauliczny,3,atrybut
+rower z tarczami,3,atrybut
+górówka,3,typ_roweru
+rower amortyzowany,3,powiązane
+rower fatbike zimowy,3,typ_roweru
+rower długodystansowy,3,powiązane
+jednoślad,3,synonim
+superior rowery cena,4,marka
+top rowery mtb,4,porównanie
+opinie rowery superior,4,porównanie
+marin dsx opinie,4,longtail
+superior rowery sklep,4,marka
+primal.pl rowery,4,lokalny
+marin opinie,4,marka
+superior rowery polska,4,marka
+primal sklep rowerowy,4,lokalny
+marin bikes polska,4,marka
+marin four corners opinie,4,longtail
+sklep rowerowy primal,4,lokalny
+primal rowery opinie,4,lokalny
+marin bikes sklep,4,marka
+marin san quentin,5,marka
+marin bobcat trail,5,marka
+marin dsx fs 2025,5,longtail
+marin vs specialized,5,porównanie
+marin dsx fs,5,marka
+marin san quentin cena,5,longtail
+marin san quentin 2,5,marka
+marin san quentin 1,5,marka
+marin dsx,5,marka
+marin dsx fs gravel,5,longtail
+orbea orca m30,6,marka
+orbea oiz,6,marka
+orbea oiz m20,6,marka
+orbea oiz m30,6,marka
+orbea rise,6,marka
+orbea urrun,6,marka
+orbea kemen,6,marka
+orbea laufey,6,marka
+orbea alma m30,6,marka
+orbea orca m20,6,marka
+orbea orca omr,6,marka
+orbea alma,6,marka
+orbea alma m15,6,marka
+orbea alma m50,6,marka
+orbea orca,6,marka
+orbea terra,6,marka
+orbea gain d30,6,marka
+orbea rallon,6,marka
+orbea gain,6,marka
+orbea rise vs trek rail,6,longtail
+orbea occam m30,6,marka
+orbea occam,6,marka
+orbea vs specialized,6,porównanie
+orbea vs trek,6,porównanie
+orbea terra h40,6,marka
+orbea vector,6,marka
+orbea terra h30,6,marka
+orbea avant,6,marka
+najlepszy rower elektryczny 2026,7,porównanie
+rower elektryczny prawo jazdy,7,powiązane
+rowery cargo elektryczne,7,powiązane
+rower dziecięcy elektryczny,7,longtail
+rower elektryczny do 5000 zł,7,cenowy
+rowery elektryczne sklep,7,typ_roweru
+rower elektryczny miejski,7,typ_roweru
+rower elektryczny szosowy,7,typ_roweru
+rower elektryczny trekking,7,typ_roweru
+rower elektryczny górski orbea,7,longtail
+elektryczny rower dla dorosłych,7,typ_roweru
+rower elektryczny górski,7,typ_roweru
+rower elektryczny yamaha,7,longtail
+rower elektryczny bosch,7,longtail
+rower elektryczny 250w,7,longtail
+rower elektryczny shimano steps,7,longtail
+rower elektryczny dla kobiety,7,longtail
+rower górski elektryczny 2026,7,longtail
+rower elektryczny dla seniora,7,typ_roweru
+jaki rower elektryczny wybrać,7,pytanie
+jaki rower elektryczny,7,pytanie
+rower elektryczny do 10000 zł,7,cenowy
+rower elektryczny serwis,7,serwis
+rower z silnikiem,7,powiązane
+rowery z napędem elektrycznym,7,powiązane
+jak wybrać rower elektryczny,7,pytanie
+rower elektryczny czy tradycyjny,7,pytanie
+rower elektryczny vs tradycyjny,7,porównanie
+rower elektryczny ładowanie,7,longtail
+rower elektryczny bateria,7,longtail
+enduro rower elektryczny,7,longtail
+rower full suspension elektryczny,7,longtail
+rower elektryczny zasięg,7,longtail
+rower elektryczny wspomaganie,7,longtail
+rower cargo polska,7,powiązane
+rower fatbike elektryczny,7,longtail
+rower miejski elektryczny,7,powiązane
+rower elektryczny dofinansowanie,7,powiązane
+rower elektryczny dotacja,7,powiązane
+rower elektryczny vat,7,powiązane
+rowery elektryczne,7,typ_roweru
+rower elektryczny ulga podatkowa,7,powiązane
+rower crossowy elektryczny,7,powiązane
+rower składany elektryczny,7,powiązane
+rower elektryczny,7,typ_roweru
+rower,8,synonim
+rower aluminium vs carbon,8,longtail
+rower downhill,8,typ_roweru
+rower cross,8,typ_roweru
+rower xc,8,typ_roweru
+rower enduro,8,typ_roweru
+rower cross country,8,typ_roweru
+rower aluminium,8,atrybut
+rower gravel,8,typ_roweru
+rower bmx freestyle,8,longtail
+rower superior,8,marka
+rower dh,8,typ_roweru
+rower cargo,8,powiązane
+rower trekking,8,typ_roweru
+rower marin,8,marka
+rower premium,8,cenowy
+rower carbon,8,atrybut
+rower cruiser,8,typ_roweru
+rower bmx,8,typ_roweru
+rower fitness,8,odbiorca
+rower trail,8,typ_roweru
+rower fatbike,8,typ_roweru
+rower orbea,8,marka
+gravel bike,9,typ_roweru
+gravel bike commuter,9,longtail
+e-mtb,9,typ_roweru
+pedelec,9,typ_roweru
+rower gravel vs mtb,9,porównanie
+pedelec vs e-bike,9,powiązane
+fat bike,9,typ_roweru
+bike,9,synonim
+e-bike,9,typ_roweru
+mtb,9,typ_roweru
+marin four corners,10,marka
+marin rift zone,10,marka
+marin nicasio,10,marka
+marin larkspur,10,marka
+marin pine mountain,10,marka
+marin nail trail,10,marka
+superior xc 819 opinie,11,longtail
+superior radon,11,marka
+superior xc opinie,11,marka
+superior xc 899,11,marka
+superior xc 899 cena,11,longtail
+superior era,11,marka
+superior xc 819,11,marka
+szosówka,12,typ_roweru
+opony szosowe,12,akcesoria
+rower elektryczny gravel,12,longtail
+rowery gravel polska,12,longtail
+najlepszy gravel bike 2026,12,longtail
+rower gravel z błotnikami,12,longtail
+e-gravel bike polska,12,longtail
+rower szosowy vs gravel,12,porównanie
+jaki rower gravel,12,pytanie
+rower gravel co to,12,typ_roweru
+rower gravlowy,12,typ_roweru
+rower gravel opony,12,longtail
+rower gravel opinie,12,typ_roweru
+rower gravel dla początkującego,12,longtail
+rower gravel vs szosowy,12,typ_roweru
+rower gravel z amortyzatorem,12,longtail
+orbea rise opinie,13,longtail
+orbea terra gravel opinie,13,longtail
+orbea orca cena 2026,13,longtail
+orbea opinie,13,marka
+orbea polska,13,marka
+orbea sklep,13,marka
+orbea rise cena,13,marka
+orbea rowery cena,13,marka
+orbea terra h40 cena,13,longtail
+rowery orbea,13,marka
+rower używany orbea,13,powiązane
+orbea orca cena,13,marka
+recenzja roweru orbea,13,porównanie
+orbea alma m50 opinie,13,longtail
+orbea terra h30 cena,13,longtail
+orbea orca m30 opinie,13,longtail
+rowery xc,14,typ_roweru
+rowery online,14,zakupowy
+rowery refurbished,14,powiązane
+rowery leasing,14,longtail
+rowery outlet,14,longtail
+test roweru marin,14,porównanie
+rowery downhill,14,typ_roweru
+top rowery gravel,14,porównanie
+rowery trail,14,typ_roweru
+gravel rowery ranking,14,longtail
+rowery marin,14,marka
+rowery premium,14,cenowy
+marin rowery cena,14,marka
+rowery superior,14,marka
+rowery gravel,14,typ_roweru
+rowery,14,seed
